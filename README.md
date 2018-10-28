@@ -1,4 +1,4 @@
-# ecommerce
+# E-commerce Front End (WIP)
 
 > Nuxt.js project
 
